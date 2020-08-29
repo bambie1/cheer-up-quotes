@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "quote": "Getting fired is nature’s way of telling you that you had the wrong job in the first place.",
+    "quoteAuthor": "Hal Lancaster"
+  },
+  {
+    "id": 2,
+    "quote": "When one door is closed, don’t you know that many more are open.",
+    "quoteAuthor": "Bob Marley"
+  },
+  {
+    "id": 3,
+    "quote": "Fall seven times, stand up eight.",
+    "quoteAuthor": "Japanese Proverb"
+  },
+  {
+    "id": 4,
+    "quote": "Success consists of going from failure to failure without loss of enthusiasm.",
+    "quoteAuthor": "Winston Churchill"
+  },
+  {
+    "id": 5,
+    "quote": "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.",
+    "quoteAuthor": "Norman Vincent Peale"
+  }
+]
